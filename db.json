@@ -1,5 +1,5 @@
 {
-  "login": [
+  "login": 
     { 
       "id": 1,
       "token": "token_test",
@@ -9,7 +9,7 @@
       "department": "test_1",
       "email": "test@gmail.com"
     }
-  ],
+  ,
   "logout": [
     {}
   ],
