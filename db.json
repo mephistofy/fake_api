@@ -10,7 +10,9 @@
       "email": "test@gmail.com"
     }
   ,
-  "people":[
+  "people":
+  "all":
+  [
     {
       "id": 1,
       "department_name": "department1",
