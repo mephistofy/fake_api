@@ -3,10 +3,11 @@
     { 
       "id": 1,
       "token": "token_test",
-      "roles": ["sorter"],
+      "roles": ["manager"],
       "avatar": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGljfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fullname": "Сотрировщенко Сортировщик Сортировщикович",
-      "email": "test1@gmail.com"
+      "email": "test1@gmail.com",
+      "department": "department1",
     },
   "logout": [
     {}
