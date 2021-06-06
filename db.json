@@ -3,8 +3,7 @@
     { 
       "id": 1,
       "token": "token_test",
-      "roles": ["worker"],
-      "department": "department1",
+      "roles": ["topManager"],
       "avatar": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGljfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "fullname": "asdasd",
       "email": "sdfsdf213124dffsd@gmail.com"
